@@ -1171,7 +1171,6 @@
 									submitButtons[k].style.color = "black";
 								}
 							}
-							$(doms[prop]).off("change");
 						}
 					}
 					if (doms.address1)
